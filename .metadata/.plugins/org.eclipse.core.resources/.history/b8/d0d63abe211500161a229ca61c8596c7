@@ -1,0 +1,8 @@
+package com.java.designPatterns.abstractFactory.abstractFactory;
+
+public class TestAbstractFactory {
+	public static void main(String[] args){
+		
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.java.designPatterns.factoryMethod.commonFactory;
+
+public class TestCommonFactory {
+	public static void main(String[] args){
+		
+	}
+}

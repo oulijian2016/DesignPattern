@@ -1,0 +1,9 @@
+package com.java.designPatterns.abstractFactory.abstractFactory;
+
+public class TestAbstractFactory {
+	public static void main(String[] args){
+		Provider provider = new SendMailFactory();
+		provider.provide();
+	}
+
+}

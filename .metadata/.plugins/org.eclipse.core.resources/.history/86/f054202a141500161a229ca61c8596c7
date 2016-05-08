@@ -1,0 +1,5 @@
+package com.java.designPatterns.factoryMethod.commonFactory;
+
+public interface Sender {
+
+}

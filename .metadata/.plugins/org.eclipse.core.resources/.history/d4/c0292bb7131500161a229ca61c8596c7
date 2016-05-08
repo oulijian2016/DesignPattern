@@ -1,0 +1,10 @@
+package com.java.designPatterns.factoryMethod.commonFactory;
+
+/**
+ * π§≥ß¿‡
+ * @author oulijian
+ *
+ */
+public class SendFactory {
+	
+}

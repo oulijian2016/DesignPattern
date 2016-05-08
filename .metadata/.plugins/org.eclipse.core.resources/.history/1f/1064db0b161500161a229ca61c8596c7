@@ -1,0 +1,10 @@
+package com.java.designPatterns.factoryMethod.moreFactory;
+
+public class TestMoreFactory {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
