@@ -1,0 +1,5 @@
+package com.java.designPatterns.adapterOfInterface;
+
+public class SourceSub2 extends Adapter{
+	
+}

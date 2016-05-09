@@ -1,0 +1,11 @@
+package com.java.designPatterns.prototype;
+
+public class TestDeepClone {
+	public static void main(String[] args){
+		DeepClone c1 = new DeepClone();
+		c1.setA(1);
+		c1.setB("deepclone");
+		c1.setC(new int[]{100});
+		
+	}
+}

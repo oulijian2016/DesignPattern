@@ -1,0 +1,7 @@
+package com.jiuqi.designPatterns.adapterOfClass;
+
+public class TestAdapter {
+	public static void main(String[] args){
+		
+	}
+}

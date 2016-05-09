@@ -1,0 +1,7 @@
+package com.java.designPatterns.adapterOfInterface;
+
+public class SourceSub2 extends Adapter{
+	public void Method2(){
+		System.out.println("the sourceable interface's second Sub2!");  
+	}
+}

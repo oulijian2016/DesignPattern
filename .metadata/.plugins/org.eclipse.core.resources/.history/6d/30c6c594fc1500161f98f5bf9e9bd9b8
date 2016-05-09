@@ -1,0 +1,5 @@
+package com.java.designPatterns.adapterOfInterface;
+
+public class TestAdapter {
+
+}

@@ -1,0 +1,7 @@
+package com.java.designPatterns.prototype;
+
+public class TestDeepClone {
+	public static void main(String[] args){
+		
+	}
+}

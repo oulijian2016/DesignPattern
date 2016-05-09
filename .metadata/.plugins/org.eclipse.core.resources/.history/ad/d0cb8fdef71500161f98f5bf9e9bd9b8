@@ -1,0 +1,5 @@
+package com.jiuqi.designPatterns.adapterOfClass;
+
+public interface Targetable {
+
+}
