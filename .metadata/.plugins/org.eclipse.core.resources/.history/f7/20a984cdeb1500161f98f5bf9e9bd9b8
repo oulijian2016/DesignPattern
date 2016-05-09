@@ -1,0 +1,8 @@
+package com.java.designPatterns.prototype;
+
+import java.io.Serializable;
+
+// 深拷贝，采用序列化实现深度拷贝
+public class DeepClone implements Serializable{
+	
+}

@@ -1,0 +1,8 @@
+package com.java.designPatterns.prototype;
+
+import java.io.Serializable;
+
+// Ç³¸´ÖÆ
+public class ShallowClone implements Cloneable{
+	
+}

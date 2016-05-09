@@ -1,0 +1,10 @@
+package com.java.designPatterns.builder.builder;
+
+public class SmsSend implements Sender {
+
+	public void send() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,6 @@
+package com.java.designPatterns.prototype;
+
+// 深拷贝，采用序列化实现深度拷贝
+public class DeepClone {
+	
+}

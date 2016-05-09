@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.commonFactory.MailSender"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.commonFactory.SmsSender"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.commonFactory.SendFactory"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.moreFactory.MailSender"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.moreFactory.SmsSender"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.moreFactory.SendFactory"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.moreFactory.Sender"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.staticFactory.SendFactory"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.Provicer"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.MailSender"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.SmsSender"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.Provider"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.SendMailFactory"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.SendSmsFactory"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.IpaySender"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.SendIpayFactory"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.Sender"/>
+</qualifiedTypeNameHistroy>
