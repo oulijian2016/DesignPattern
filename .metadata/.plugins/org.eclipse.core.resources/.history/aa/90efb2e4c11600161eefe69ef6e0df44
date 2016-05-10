@@ -1,0 +1,12 @@
+package com.java.designPatterns.facade;
+
+public class ComputerFacade {
+	private CPU cpu;
+	private Memory memory;
+	private Disk disk;
+	public ComputerFacade(){
+		this.cpu = new CPU();
+		this.memory = new Memory();
+		this.disk = new Disk();
+	}
+}

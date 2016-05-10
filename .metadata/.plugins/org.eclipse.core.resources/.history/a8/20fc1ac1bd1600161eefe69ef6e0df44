@@ -1,0 +1,9 @@
+package com.java.designPatterns.proxy;
+
+public class Proxy implements Sourceable {
+
+	public void method() {
+		
+	}
+
+}

@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=com.java.designPatterns.abstractFactory/src&lt;com.java.designPatterns.abstractFactory.abstractFactory{Sender.java[Sender" modifiers="513" timestamp="1462711883193"/>
+<typeInfo handle="=com.java.designPatterns.builder/src&lt;com.java.designPatterns.builder.builder{Sender.java[Sender" modifiers="513" timestamp="1462795382017"/>
+<typeInfo handle="=com.java.designPatterns.prototype/C:\/Program Files \(x86)\/Java\/jre6\/lib\/rt.jar&lt;java.lang(Cloneable.class[Cloneable" modifiers="1537" timestamp="1429684102238"/>
+<typeInfo handle="=com.java.designPatterns.prototype/C:\/Program Files \(x86)\/Java\/jre6\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1429684102238"/>
+<typeInfo handle="=com.java.designPatterns.decorator/src&lt;com.java.designPatterns.decorator{Sourceable.java[Sourceable" modifiers="513" timestamp="1462885864528"/>
+<typeInfo handle="=com.java.designPatterns.proxy/src&lt;com.java.designPatterns.proxy{Sourceable.java[Sourceable" modifiers="513" timestamp="1462891297830"/>
 </typeInfoHistroy>

@@ -1,0 +1,5 @@
+package com.java.designPatterns.facade;
+
+public class CPU {
+
+}
