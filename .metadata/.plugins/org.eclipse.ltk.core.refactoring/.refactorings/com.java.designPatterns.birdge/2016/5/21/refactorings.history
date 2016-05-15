@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.java.designPatterns.birdge.Bridge.source&apos; in &apos;com.java.designPatterns.birdge.Bridge&apos;&#x0D;&#x0A;- Original project: &apos;com.java.designPatterns.birdge&apos;&#x0D;&#x0A;- Original element: &apos;com.java.designPatterns.birdge.Bridge.source&apos;&#x0D;&#x0A;- Getter method name: &apos;getSource&apos;&#x0D;&#x0A;- Setter method name: &apos;setSource&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;source&apos;" flags="589830" getter="getSource" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.java.designPatterns.birdge{Bridge.java[Bridge^source" insertion="-1" setter="setSource" stamp="1463331744279" version="1.0" visibility="1"/>
+</session>

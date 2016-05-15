@@ -1,0 +1,5 @@
+package com.java.designPatterns.birdge;
+
+public class Sourcesub1 implements Sourceable{
+
+}

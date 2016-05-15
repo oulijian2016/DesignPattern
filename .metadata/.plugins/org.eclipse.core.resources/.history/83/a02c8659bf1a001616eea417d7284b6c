@@ -1,0 +1,7 @@
+package com.java.designPatterns.birdge;
+
+public class TestBridge {
+	public static void main(String[] args){
+		
+	}
+}
