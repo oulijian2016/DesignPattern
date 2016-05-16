@@ -46,4 +46,7 @@
 <fullyQualifiedTypeName name="com.java.designPatterns.facade.Memory"/>
 <fullyQualifiedTypeName name="com.java.designPatterns.facade.Disk"/>
 <fullyQualifiedTypeName name="com.java.designPatterns.facade.ComputerFacade"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.birdge.MyBridge"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.birdge.Sourceable"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.birdge.Sourcesub1"/>
 </qualifiedTypeNameHistroy>

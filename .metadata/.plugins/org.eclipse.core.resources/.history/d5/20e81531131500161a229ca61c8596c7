@@ -1,9 +1,0 @@
-package com.java.designPatterns.factoryMethod.commonFactory;
-
-public class SmsSender implements Sender {
-
-	public void send() {
-		
-	}
-
-}

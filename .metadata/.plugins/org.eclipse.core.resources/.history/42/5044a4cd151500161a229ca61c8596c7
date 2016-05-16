@@ -1,5 +1,0 @@
-package com.java.designPatterns.factoryMethod.moreFactory;
-
-public class SendFactory {
-
-}

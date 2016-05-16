@@ -1,0 +1,5 @@
+package com.java.designPatterns.flyweight;
+
+public class ConnectionPool {
+
+}

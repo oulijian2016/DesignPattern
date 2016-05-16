@@ -1,0 +1,17 @@
+package com.java.designPatterns.composite;
+
+import java.util.Vector;
+
+
+public class TreeNode {
+	private String name;
+	private TreeNode parent;
+	private Vector<TreeNode> children = new Vector<TreeNode>();
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+}

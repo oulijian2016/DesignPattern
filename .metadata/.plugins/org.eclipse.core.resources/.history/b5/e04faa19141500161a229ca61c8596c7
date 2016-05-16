@@ -1,9 +1,0 @@
-package com.java.designPatterns.factoryMethod.commonFactory;
-
-public class TestCommonFactory {
-	public static void main(String[] args){
-		SendFactory sf = new SendFactory();
-		Sender send = sf.produce("sms");
-		send.send();
-	}
-}

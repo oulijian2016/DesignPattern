@@ -1,0 +1,17 @@
+package com.java.designPatterns.composite;
+
+public class Tree {
+	public TreeNode root = null;
+	public Tree(String name){
+		root = new TreeNode(name);
+	}
+	public static void main(String[] args) {
+		Tree tree = new Tree("A");
+		TreeNode tnb = new TreeNode("B");
+		TreeNode tnc = new TreeNode("C");
+		tnb.add(tnc);
+		tree.root.add(tnb);
+		System.out.println(tree.root);
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.java.designPatterns.composite;
+
+import java.util.Vector;
+
+
+public class TreeNode {
+	private String name;
+	private TeeNode parent;
+	private Vector<TreeNode>
+}

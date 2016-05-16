@@ -1,0 +1,13 @@
+package com.java.designPatterns.composite;
+
+public class Tree {
+	public TreeNode root = null;
+	public Tree(String name){
+		root = new TreeNode(name);
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
