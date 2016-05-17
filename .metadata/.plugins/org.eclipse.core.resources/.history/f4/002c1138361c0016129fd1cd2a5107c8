@@ -1,0 +1,11 @@
+package com.java.designPatterns.observer;
+
+public class Observer2 implements Observer{
+
+	@Override
+	public void update() {
+		
+		
+	}
+
+}

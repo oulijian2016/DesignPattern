@@ -1,7 +1,0 @@
-package com.java.designPatterns.prototype;
-
-import java.io.Serializable;
-
-public class Prototype implements Cloneable, Serializable {
-
-}

@@ -1,0 +1,5 @@
+package com.java.designPatterns.strategy;
+
+public class Multiply {
+
+}

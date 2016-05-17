@@ -1,0 +1,8 @@
+package com.java.designPatterns.strategy;
+
+public class TestStrategy {
+	public static void main(String[] args){
+		ICalculator iPlus = new Plus();
+		iPlus.calculator("2+9");
+	}
+}

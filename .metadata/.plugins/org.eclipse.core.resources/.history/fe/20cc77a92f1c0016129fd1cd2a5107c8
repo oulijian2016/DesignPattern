@@ -1,0 +1,5 @@
+package com.java.designPatterns.templateMethod;
+
+public class TestTemplateMethod {
+
+}
