@@ -1,0 +1,10 @@
+package com.java.designPatterns.chainOfResponsibility;
+
+public class TestChain {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

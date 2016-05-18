@@ -1,0 +1,5 @@
+package com.java.designPatterns.command;
+
+public class Receicer {
+
+}

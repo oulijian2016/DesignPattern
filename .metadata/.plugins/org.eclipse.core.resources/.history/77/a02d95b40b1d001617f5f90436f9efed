@@ -1,0 +1,5 @@
+package com.java.designPatterns.visitor;
+
+public class MySubject implements Subject{
+
+}

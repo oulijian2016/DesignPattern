@@ -1,0 +1,16 @@
+package com.java.designPatterns.command;
+
+public class MyCommand implements Command{
+	
+	private Receicer receiver;
+	public MyCommand(Receicer receiver){
+		this.receiver = receiver;
+	}
+	
+	@Override
+	public void exe() {
+		receiver.action();
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.java.designPatterns.memento;
+
+public class Memento {
+
+}

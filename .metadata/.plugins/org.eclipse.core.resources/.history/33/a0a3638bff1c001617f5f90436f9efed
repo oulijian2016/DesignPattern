@@ -1,0 +1,11 @@
+package com.java.designPatterns.chainOfResponsibility;
+
+public class MyHandler extends AbstractHandler implements Handler{
+
+	@Override
+	public void operator() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

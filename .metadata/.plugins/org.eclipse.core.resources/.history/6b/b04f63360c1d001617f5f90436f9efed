@@ -1,0 +1,17 @@
+package com.java.designPatterns.mediator;
+
+public class MyMediator implements Mediator{
+
+	@Override
+	public void createMediator() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void workAll() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

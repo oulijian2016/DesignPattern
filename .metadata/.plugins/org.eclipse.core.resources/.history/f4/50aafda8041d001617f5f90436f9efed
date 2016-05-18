@@ -1,0 +1,7 @@
+package com.java.designPatterns.command;
+
+public class Receicer {
+	public void action(){
+		System.out.println("Command received!");
+	}
+}

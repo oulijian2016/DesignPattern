@@ -1,0 +1,11 @@
+package com.java.designPatterns.command;
+
+public class MyCommand implements Command{
+
+	@Override
+	public void exe() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

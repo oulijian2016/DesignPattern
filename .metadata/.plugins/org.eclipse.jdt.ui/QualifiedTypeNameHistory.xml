@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.commonFactory.MailSender"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.commonFactory.SmsSender"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.commonFactory.SendFactory"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.moreFactory.MailSender"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.moreFactory.SmsSender"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.moreFactory.SendFactory"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.moreFactory.Sender"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.factoryMethod.staticFactory.SendFactory"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.Provicer"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.MailSender"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.SmsSender"/>
-<fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.Provider"/>
 <fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.SendMailFactory"/>
 <fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.SendSmsFactory"/>
 <fullyQualifiedTypeName name="com.java.designPatterns.abstractFactory.abstractFactory.IpaySender"/>
@@ -51,11 +39,25 @@
 <fullyQualifiedTypeName name="com.java.designPatterns.birdge.Sourcesub1"/>
 <fullyQualifiedTypeName name="com.java.designPatterns.composite.TeeNode"/>
 <fullyQualifiedTypeName name="javax.swing.tree.TreeNode"/>
-<fullyQualifiedTypeName name="java.util.Enumeration"/>
 <fullyQualifiedTypeName name="com.java.designPatterns.composite.Tree"/>
 <fullyQualifiedTypeName name="com.java.designPatterns.composite.TreeNode"/>
-<fullyQualifiedTypeName name="java.util.Vector"/>
 <fullyQualifiedTypeName name="java.sql.DriverManager"/>
 <fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.strategy.AbstractCalculator"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.strategy.ICalculator"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.strategy.Plus"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.templateMethod.AbstractCalculator"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.templateMethod.Plus"/>
+<fullyQualifiedTypeName name="java.util.Enumeration"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.observer.Subject"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.observer.MySubject"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.observer.Observer1"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.observer.Observer"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.observer.Observer2"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.Iterator.Collection"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.Iterator.MyCollection"/>
+<fullyQualifiedTypeName name="com.java.designPatterns.Iterator.Iterator"/>
 </qualifiedTypeNameHistroy>
